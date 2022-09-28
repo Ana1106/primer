@@ -1,2 +1,1 @@
 # primer
-primer za stranicu
